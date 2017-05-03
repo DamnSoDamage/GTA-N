@@ -1,0 +1,7 @@
+C:\Users\Fiti\Desktop\Server gta N\resources\Pizzero\obj\Debug\Pizzero.csprojResolveAssemblyReference.cache
+C:\Users\Fiti\Desktop\Server gta N\resources\Pizzero\bin\Debug\Pizzero.dll
+C:\Users\Fiti\Desktop\Server gta N\resources\Pizzero\bin\Debug\Pizzero.pdb
+C:\Users\Fiti\Desktop\Server gta N\resources\Pizzero\bin\Debug\GTANetworkServer.exe
+C:\Users\Fiti\Desktop\Server gta N\resources\Pizzero\bin\Debug\GTANetworkShared.dll
+C:\Users\Fiti\Desktop\Server gta N\resources\Pizzero\obj\Debug\Pizzero.dll
+C:\Users\Fiti\Desktop\Server gta N\resources\Pizzero\obj\Debug\Pizzero.pdb
